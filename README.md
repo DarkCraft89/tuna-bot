@@ -8,7 +8,7 @@
 
 > A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/tuna-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkCraft89/tuna-bot)
 
 ## BUILD PACKS
 
